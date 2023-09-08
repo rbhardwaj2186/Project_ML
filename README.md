@@ -1,4 +1,7 @@
 # Project_ML
+![kaggle-titanic-challenge](https://github.com/rbhardwaj2186/Project_ML/assets/143745073/3169c6d0-eb3d-4de1-9c1e-3c8acd996a64)
+
+
 Predicting Titanic Survivors Using KNN Supervised Learning ML Algorithm
 The Titanic dataset is a famous dataset that is available on Kaggle. It contains information about the passengers of the Titanic, including their names, ages, genders, socio-economic classes, etc. The goal of the challenge is to predict whether a passenger survived the Titanic disaster or not.
 
